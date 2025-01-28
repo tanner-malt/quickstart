@@ -1,0 +1,5 @@
+baseURL = http://tanner-mcgrath.me/'
+languageCode = 'en-us'
+title = 'Tanners Site'
+theme = 'beautifulhugo'
+timeZone = "America/New_York"
