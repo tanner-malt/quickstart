@@ -8,8 +8,8 @@ enableRobotsTXT = true          # Generate a robots.txt file
 
 [params]
   description = "This is my blog/learning space"  
-  author = "Tanner McGrath"                   
-  
+  author = { name = "Tanner McGrath", bio = "Writer and Developer" }        
+
 [menu]
   [[menu.main]]
     name = "Home"
